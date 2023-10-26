@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I'm Veronika!
 
-<!--
-**VeronikaLapteva/VeronikaLapteva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Pythom developer
 
-Here are some ideas to get you started:
+#### About me
+- 🎓 Graduated from the Moscow Institute of Physics and Technology, MIPT (Department of Aeromechanics and Flight Engineering)
+- 🌱 I’m currently learning Python, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages and Tools
+![Python](https://img.shields.io/badge/-Python-FA8072?&logo=Python)
+![Django](https://img.shields.io/badge/-Django-FA8072?&logo=Django)
+![Docker](https://img.shields.io/badge/-Docker-FA8072?&logo=Docker)
+![Nginx](https://img.shields.io/badge/-Nginx-FA8072?&logo=Nginx)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FA8072?&logo=PostgreSQL)
+
+#### Contact Me
+[![Mail](https://img.shields.io/badge/-✉_Mail-FA8072??style=plastic&logo=mail✉)](mailto:v.a.strelnikova@mail.ru)
+[![Telegram](https://img.shields.io/badge/-Telegram-f79a34??style=plastic&logo=telegram)](https://t.me/Veronika_Strelnikova)
