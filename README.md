@@ -14,5 +14,5 @@ I'm a Pythom developer
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FA8072?&logo=PostgreSQL)
 
 #### Contact Me
-[![Mail](https://img.shields.io/badge/-✉_Mail-FA8072??style=plastic&logo=mail✉)](mailto:v.a.strelnikova@mail.ru)
-[![Telegram](https://img.shields.io/badge/-Telegram-f79a34??style=plastic&logo=telegram)](https://t.me/Veronika_Strelnikova)
+[![Mail](https://img.shields.io/badge/-✉_Mail-E6E6FA??style=plastic&logo=mail✉)](mailto:v.a.strelnikova@mail.ru)
+[![Telegram](https://img.shields.io/badge/-Telegram-E6E6FA??style=plastic&logo=telegram)](https://t.me/Veronika_Strelnikova)
