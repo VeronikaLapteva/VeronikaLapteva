@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Veronika!
 
-I'm a Pythom developer
+I'm a Python developer
 
 #### About me
 - 🎓 Graduated from the Moscow Institute of Physics and Technology, MIPT (Department of Aeromechanics and Flight Engineering)
